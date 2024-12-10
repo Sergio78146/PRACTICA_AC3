@@ -13,7 +13,4 @@ CREATE TABLE clienteSergio (
     clave VARCHAR(100)
 );
  
-select * from clienteSergio;
-
-TRUNCATE TABLE clienteSergio;
 
